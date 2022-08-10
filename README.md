@@ -13,17 +13,19 @@
 
 ### Built With
 
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
+[![React][React.js]][React-url]
+[![Tailwind][TailwindCSS]][Tailwind-url]
 
 ## Getting Started
 
-app is hosted [here](https://mhalpin613.github.io/react-todo-list)
+App is hosted [here](https://mhalpin613.github.io/react-todo-list).
 
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [React Icons](https://react-icons.github.io/react-icons/)
+[React Icons](https://react-icons.github.io/react-icons/)
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Tailwind-url]: https://tailwindcss.com
+[TailwindCSS]: https://github.com/tailwindlabs/tailwindcss/raw/master/.github/logo-dark.svg
+
