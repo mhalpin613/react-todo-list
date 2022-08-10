@@ -9,12 +9,10 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 ### Built With
 
 [![React][React.js]][React-url]
-[![Tailwind][TailwindCSS]][Tailwind-url]
+[Tailwind](Tailwind-url)
 
 ## Getting Started
 
@@ -27,5 +25,4 @@ App is hosted [here](https://mhalpin613.github.io/react-todo-list).
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Tailwind-url]: https://tailwindcss.com
-[TailwindCSS]: https://i0.wp.com/www.solutiontuts.com/wp-content/uploads/2021/12/tailwindcss.png?fit=996%2C334&ssl=1
 
